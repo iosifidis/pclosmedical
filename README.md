@@ -6,28 +6,28 @@ This ISO is based on PCLinuxOS Gnome Zen Mini with [openEMR](https://www.open-em
 
 ## Installed software
 
-### Medical
+**Medical**  
 * [openEMR v4.1.0](https://www.open-emr.org/)
 
-### Tools to install openEMR  
+**Tools to install openEMR**  
 * mysql-administrator  
 * mysql-gui-tools  
 
-### Backup  
+**Backup**  
 * deja dup  
 * gnomebaker  
 
-### Graphics  
+**Graphics**  
 * gimp  
 * inkscape  
 
-### Remote management  
+**Remote management**  
 * teamviewer
   
-### Video  
+**Video**  
 * vlc  
   
-### pdf tools  
+**pdf tools**  
 * evince  
 * pdfedit  
 
@@ -39,15 +39,15 @@ There's a DEMO that the patient can see his visits.
 
 ** USER-PASS** for DEMO are:
 
-> Administrator: **admin - pass**
-> Physician (more permissions than clinician): **physician - physician**
-> Clinician (less permissions than physician): **clinician - clinician**
-> Accountant: **accountant - accountant**
-> Information desk: **receptionist - receptionist**
+> Administrator: **admin - pass**  
+> Physician (more permissions than clinician): **physician - physician**  
+> Clinician (less permissions than physician): **clinician - clinician**  
+> Accountant: **accountant - accountant**  
+> Information desk: **receptionist - receptionist**  
 
 Pass for patients DEMO:
 
-> Susan1 - susan
+> Susan1 - susan  
 > Phil2 - phil
 
 Because of *permissions* of LiveCD, you must install LiveCD to use openEMR.
