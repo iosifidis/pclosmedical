@@ -74,6 +74,14 @@ After the installation you'll have a user *medical*.
 
 ![PCLinuxOS GNOME ZEN](/images/pclinuxos_gnome_zen.png)
 
+![openEMR Login](/images/openemr_login.png)
+
+![openEMR Patient](/images/openemr_search_patient.png)
+
+![Patient Login](/images/openemr_patient_login.png)
+
+![Patient Portal](/images/openemr_patient_portal.png)
+
 ## DISCLAIMER
 
 Logos and trade names of openEMR and PCLinuxOS, do not belong to me.
