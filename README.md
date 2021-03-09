@@ -37,7 +37,7 @@ This ISO is based on PCLinuxOS Gnome Zen Mini with [openEMR](https://www.open-em
 To test LiveCD, run Firefox or Chromium. It will open a DEMO environment (you need Internet). 
 There's a DEMO that the patient can see his visits.
 
-** USER-PASS** for DEMO are:
+**USER-PASS** for DEMO are:
 
 > Administrator: **admin - pass**  
 > Physician (more permissions than clinician): **physician - physician**  
