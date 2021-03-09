@@ -70,6 +70,10 @@ USER-PASS are:
   
 After the installation you'll have a user *medical*.
 
+## Screens
+
+![PCLinuxOS GNOME ZEN](/images/pclinuxos_gnome_zen.png)
+
 ## DISCLAIMER
 
 Logos and trade names of openEMR and PCLinuxOS, do not belong to me.
